@@ -95,6 +95,7 @@ class _RegisterScreenState extends State<RegisterScreen> {
     );
   }
 }
+/*/
 
 
 
@@ -170,5 +171,4 @@ class _RegisterScreenState extends State<RegisterScreen> {
 
 
 
-
-// Feito por Vinícius Manzano.
+Feito por Vinícius Manzano.
