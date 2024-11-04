@@ -11,6 +11,7 @@ class DefaultFirebaseOptions {
     );
   }
 }
+/*/
 
 
 
@@ -86,5 +87,4 @@ class DefaultFirebaseOptions {
 
 
 
-
-// Feito por Vinícius Manzano.
+Feito por Vinícius Manzano.
