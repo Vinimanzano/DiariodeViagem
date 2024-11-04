@@ -98,6 +98,7 @@ class _LoginScreenState extends State<LoginScreen> {
     );
   }
 }
+/*/
 
 
 
@@ -172,6 +173,4 @@ class _LoginScreenState extends State<LoginScreen> {
 
 
 
-
-
-// Feito por Vinícius Manzano.
+Feito por Vinícius Manzano.
