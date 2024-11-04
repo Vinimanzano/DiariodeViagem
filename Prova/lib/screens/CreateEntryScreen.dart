@@ -179,4 +179,4 @@ final XFile? pickedFile = await picker.pickImage(source: ImageSource.gallery);
 
 
 
-// Feito por Vinícius Manzano.
+Feito por Vinícius Manzano.
