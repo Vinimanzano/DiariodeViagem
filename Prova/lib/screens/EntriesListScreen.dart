@@ -45,6 +45,7 @@ class ViewEntryScreen extends StatelessWidget {
     );
   }
 }
+/*/
 
 
 
@@ -118,7 +119,4 @@ class ViewEntryScreen extends StatelessWidget {
 
 
 
-
-
-
-// Feito por Vinícius Manzano.
+Feito por Vinícius Manzano.
